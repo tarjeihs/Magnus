@@ -1,0 +1,2 @@
+# Magnus
+OpenGL in C++
